@@ -19,3 +19,7 @@ to pull up the PayPal payment view:
 getPayment(AMOUNT_TO_SEND,CURRENCY_CODE,SHORT_DESCRIPTION,PAYER_EMAIL,RECEIVER_EMAIL);
 
 You should modify ofxiPhonePayPal.h and comment/uncomment the production environment definition.  By default, it's set to NoNetwork.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/claytical/ofxiphonepaypal/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
